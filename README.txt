@@ -1,4 +1,3 @@
 Machine Learning Project #1
-This is my first standalone ML project. Utilizing knowledge and help from W3Schools in their Machine Learning using Python3, Pandas and Multiple Regression. Over the winter (2020),
-I wanted to help my father who owns a paint company, automate the estimation process utilizing factors such as house size, beds, bath, etc. Due to the limited amount of data provided
-to my father, I have not been able to refine/train and test my data in a good manner. Until then......
+This is my first standalone ML project. Utilizing knowledge and help from W3Schools in their Machine Learning using Python3, Pandas and Multiple Regression. Over the winter (2020),I wanted to help my father who owns a paint company, automate the estimation process utilizing factors such as house size, beds, bath, etc. 
+Due to the limited amount of data provided by my father, I have not been able to refine/train and test my data in a good manner. Until then......
