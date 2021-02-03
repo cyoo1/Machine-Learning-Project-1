@@ -12,3 +12,6 @@ regression.fit(X, y)
 
 estimateHousePredict = regression.predict([[2954,4,3]])
 print(estimateHousePredict)
+
+#Find way to connect back end with UI? Research method in doing so
+#Update CSV File
