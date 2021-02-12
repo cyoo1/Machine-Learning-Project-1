@@ -1,6 +1,10 @@
 import pandas as pd
 from sklearn import linear_model
 
+import PySimpleGUI as sg
+
+sg.Window(title = "GUI Test", layout = [[]], margins = (100,50).read())
+
 df = pd.read_csv("Machine Learning/Project1/BusinessData1.csv")
 
 X = df[['SqFt','Bed','Bath']]
