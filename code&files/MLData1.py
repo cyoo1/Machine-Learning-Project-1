@@ -25,7 +25,7 @@ while True:
 
 windowScreen.close()   
 
-
+"""
 df = pd.read_csv("Machine Learning/Project1/BusinessData1.csv")
 
 X = df[['SqFt','Bed','Bath']]
@@ -37,7 +37,7 @@ regression.fit(X, y)
 
 estimateHousePredict = regression.predict([[2954,4,3]])
 print(estimateHousePredict)
-
+"""
 
 #Find way to connect back end with UI? Research method in doing so
 #Update CSV File
